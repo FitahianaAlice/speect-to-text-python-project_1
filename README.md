@@ -2,6 +2,10 @@
 
 Ce code est un petit programme qui permet de convertir du texte en parole en utilisant la bibliothèque Python `pyttsx3` et une interface graphique simple réalisée avec `tkinter`.
 
+## Auteur
+Ce code a été créé par RAZANAKOLONA Valisoa Fitahiana (fitahianaalice@gmail.com)
+
+
 ## Description
 Le programme est destiné à convertir n'importe quel texte que l'utilisateur entre dans une zone de saisie en parole. Une fois que l'utilisateur a saisi le texte, il peut cliquer sur le bouton "Convertir", et le programme utilisera la bibliothèque `pyttsx3` pour lire le texte à voix haute.
 
